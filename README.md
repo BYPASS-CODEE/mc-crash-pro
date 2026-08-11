@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:000000,50:001122,100:0088FF&amp;height=240&amp;section=header&amp;text=MCRA%24H%20PRO&amp;fontSize=52&amp;fontColor=0088FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%20%20MINECRAFT%20CRASH%20%26%20STRESS%20TEST%20ENGINE%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0&amp;descAlignY=60&amp;descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:000000,50:001122,100:0088FF&amp;height=240&amp;section=header&amp;text=MCRA%24H%20PRO&amp;fontSize=52&amp;fontColor=0088FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%20%20MINECRAFT%20CRASH%20%E2%80%94%20STRESS%20TEST%20ENGINE%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0&amp;descAlignY=60&amp;descSize=15" width="100%"/>
 
 </div>
 
@@ -237,7 +237,7 @@ python mc_crash_pro.py 127.0.0.1 -p 25565 -m master -d 60 -th 400 --force
 ### ⟨ ./system_monitor ⟩
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=BYPASS-CODEE&amp;show_icons=true&amp;hide_title=true&amp;theme=chartreuse-dark&amp;bg_color=0D0D0D&amp;icon_color=00FF41&amp;text_color=AAAAAA&amp;border_color=0088FF&amp;include_all_commits=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BYPASS-CODEE&amp;theme=dark&amp;background=0D0D0D&amp;ring=0088FF&amp;fire=FF0000&amp;currStreakLabel=00FF41&amp;sideNums=FFFFFF&amp;sideLabels=AAAAAA&amp;dates=555555&amp;border=0088FF" />
+<img height="170" src="https://streak-stats.demolab.com/?user=BYPASS-CODEE&amp;theme=dark&amp;background=0D0D0D&amp;ring=0088FF&amp;fire=FF0000&amp;currStreakLabel=00FF41&amp;sideNums=FFFFFF&amp;sideLabels=AAAAAA&amp;dates=555555&amp;border=0088FF" />
 
 </div>
 
