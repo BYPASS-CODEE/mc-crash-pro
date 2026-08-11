@@ -2,20 +2,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001122,100:0088FF&height=240&section=header&text=MCRA%24H%20PRO&fontSize=52&fontColor=0088FF&animation=fadeIn&fontAlignY=38&desc=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%20%20MINECRAFT%20CRASH%20%26%20STRESS%20TEST%20ENGINE%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:000000,50:001122,100:0088FF&amp;height=240&amp;section=header&amp;text=MCRA%24H%20PRO&amp;fontSize=52&amp;fontColor=0088FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%20%20MINECRAFT%20CRASH%20%26%20STRESS%20TEST%20ENGINE%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0&amp;descAlignY=60&amp;descSize=15" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0088FF&center=true&vCenter=true&width=820&height=55&lines=root%40bypass%3A~%23+python+mc_crash_pro.py...;Resolving+target+%E2%80%94+DNS+lookup+OK...;Probe+OK+%E2%80%94+MOTD+card+locked+in...;250+workers+online+%E2%80%94+strike+in+progress...;Packets+flying+%E2%80%94+overflow+varint+flood...;LOGIN+wave+%23120+%E2%80%94+usernames+rain+down...;Mission+complete+%E2%80%94+server+DOWN...;Their+server+won%27t+stop+lagging...;I+don%27t+lag.+I+make+your+server+lag+for+help.;root%40bypass%3A~%23+stay+protected_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=0088FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;lines=root%40bypass%3A~%23+python+mc_crash_pro.py...;Resolving+target+%E2%80%94+DNS+lookup+OK...;Probe+OK+%E2%80%94+MOTD+card+locked+in...;250+workers+online+%E2%80%94+strike+in+progress...;Packets+flying+%E2%80%94+overflow+varint+flood...;LOGIN+wave+%23120+%E2%80%94+usernames+rain+down...;Mission+complete+%E2%80%94+server+DOWN...;Their+server+won%27t+stop+lagging...;I+don%27t+lag.+I+make+your+server+lag+for+help.;root%40bypass%3A~%23+stay+protected_" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://t.me/Its_Bypass"><img src="https://img.shields.io/badge/GET_THE_CODE-0088FF?style=for-the-badge&logo=telegram&logoColor=black&label=TELEGRAM&labelColor=0d0d0d" /></a>
-<a href="https://github.com/BYPASS-CODEE"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
-<a href="https://www.youtube.com/@BYPASS_CODEE"><img src="https://img.shields.io/badge/YOUTUBE-0d0d0d?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
-<a href="https://www.instagram.com/bypass_codee/"><img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+<a href="https://t.me/Its_Bypass"><img src="https://img.shields.io/badge/GET_THE_CODE-0088FF?style=for-the-badge&amp;logo=telegram&amp;logoColor=black&amp;label=TELEGRAM&amp;labelColor=0d0d0d" /></a>
+<a href="https://github.com/BYPASS-CODEE"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&amp;logo=github&amp;logoColor=00FF41" /></a>
+<a href="https://www.youtube.com/@BYPASS_CODEE"><img src="https://img.shields.io/badge/YOUTUBE-0d0d0d?style=for-the-badge&amp;logo=youtube&amp;logoColor=FF0000" /></a>
+<a href="https://www.instagram.com/bypass_codee/"><img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&amp;logo=instagram&amp;logoColor=E4405F" /></a>
 
 </div>
 
@@ -128,17 +128,17 @@ creed:
 
 ### ⟨ WEAPONS ⟩
 
-<img src="https://img.shields.io/badge/PYTHON-7D4698?style=for-the-badge&logo=python&logoColor=0088FF&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/HYBRID_ENGINE-00FF41?style=for-the-badge&logo=python&logoColor=0088FF&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/STDLIB_ONLY-FF6C37?style=for-the-badge&logo=python&logoColor=0088FF&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/MULTI_THREADED-FFD700?style=for-the-badge&logo=python&logoColor=0088FF&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/CROSS_PLATFORM-0088FF?style=for-the-badge&logo=windows&logoColor=0088FF&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/PYTHON-7D4698?style=for-the-badge&amp;logo=python&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/HYBRID_ENGINE-00FF41?style=for-the-badge&amp;logo=python&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/STDLIB_ONLY-FF6C37?style=for-the-badge&amp;logo=python&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/MULTI_THREADED-FFD700?style=for-the-badge&amp;logo=python&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/CROSS_PLATFORM-0088FF?style=for-the-badge&amp;logo=windows&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
 
 </div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,windows,linux,bash,git&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,windows,linux,bash,git&amp;theme=dark&amp;perline=5" />
 
 </div>
 
@@ -236,8 +236,8 @@ python mc_crash_pro.py 127.0.0.1 -p 25565 -m master -d 60 -th 400 --force
 
 ### ⟨ ./system_monitor ⟩
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BYPASS-CODEE&show_icons=true&hide_title=true&theme=chartreuse-dark&bg_color=0D0D0D&icon_color=00FF41&text_color=AAAAAA&border_color=0088FF&include_all_commits=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BYPASS-CODEE&theme=dark&background=0D0D0D&ring=0088FF&fire=FF0000&currStreakLabel=00FF41&sideNums=FFFFFF&sideLabels=AAAAAA&dates=555555&border=0088FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BYPASS-CODEE&amp;show_icons=true&amp;hide_title=true&amp;theme=chartreuse-dark&amp;bg_color=0D0D0D&amp;icon_color=00FF41&amp;text_color=AAAAAA&amp;border_color=0088FF&amp;include_all_commits=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BYPASS-CODEE&amp;theme=dark&amp;background=0D0D0D&amp;ring=0088FF&amp;fire=FF0000&amp;currStreakLabel=00FF41&amp;sideNums=FFFFFF&amp;sideLabels=AAAAAA&amp;dates=555555&amp;border=0088FF" />
 
 </div>
 
@@ -253,25 +253,25 @@ python mc_crash_pro.py 127.0.0.1 -p 25565 -m master -d 60 -th 400 --force
 <tr>
 <td align="center" width="25%">
 <a href="https://t.me/Its_Bypass">
-<img src="https://img.shields.io/badge/-Telegram-0088FF?style=flat-square&logo=telegram&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/-Telegram-0088FF?style=flat-square&amp;logo=telegram&amp;logoColor=black" /><br/>
 <sub><b>@Its_Bypass — get the code</b></sub>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/BYPASS-CODEE">
-<img src="https://img.shields.io/badge/-GitHub-00FF41?style=flat-square&logo=github&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/-GitHub-00FF41?style=flat-square&amp;logo=github&amp;logoColor=black" /><br/>
 <sub><b>BYPASS-CODEE</b></sub>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://www.youtube.com/@BYPASS_CODEE">
-<img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" /><br/>
 <sub><b>@BYPASS_CODEE</b></sub>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://www.instagram.com/bypass_codee/">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" /><br/>
 <sub><b>bypass_codee</b></sub>
 </a>
 </td>
@@ -297,10 +297,10 @@ python mc_crash_pro.py 127.0.0.1 -p 25565 -m master -d 60 -th 400 --force
 root@bypass:~# stay protected
 ```
 
-<img src="https://komarev.com/ghpvc/?username=BYPASS-CODEE&color=0088FF&style=for-the-badge&label=VISITORS+LOGGED" />
+<img src="https://komarev.com/ghpvc/?username=BYPASS-CODEE&amp;color=0088FF&amp;style=for-the-badge&amp;label=VISITORS+LOGGED" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001122,100:0088FF&height=120&section=footer&text=telegram%3A%20%40Its_Bypass%20%E2%80%94%20get%20the%20code&fontSize=18&fontColor=0088FF&fontAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:001122,100:0088FF&amp;height=120&amp;section=footer&amp;text=telegram%3A%20%40Its_Bypass%20%E2%80%94%20get%20the%20code&amp;fontSize=18&amp;fontColor=0088FF&amp;fontAlignY=78" width="100%"/>
 
 </div>
