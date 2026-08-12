@@ -1,21 +1,22 @@
-<!-- ═══════════════════════════ NETSCOPE X ═══════════════════════════ -->
+
+<!-- ═══════════════════════════ MCRA$H PRO ═══════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:002200,100:00FF41&height=240&section=header&text=NETSCOPE%20X&fontSize=52&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%20%20LAN%20DISCOVERY%20%2F%20NETWORK%20DIAGNOSTICS%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:000000,50:001122,100:0088FF&amp;height=240&amp;section=header&amp;text=MCRA%24H%20PRO&amp;fontSize=52&amp;fontColor=0088FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%20%20MINECRAFT%20CRASH%20%E2%80%94%20STRESS%20TEST%20ENGINE%20%20%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0&amp;descAlignY=60&amp;descSize=15" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=820&height=55&lines=root%40netscope%3A~%23+python+netscope_x.py...;Sweeping+local+%2F24+%E2%80%94+254+hosts+queued...;ARP+cache+parsed+%E2%80%94+14+devices+found...;Gateway+locked+%E2%80%94+192.168.1.1...;Vendor+fingerprints+resolved+%E2%80%94+11%2F14+identified...;Port+engine+online+%E2%80%94+26+common+TCP+services...;Report+exported+%E2%80%94+netscope_report_20260812_153000.json...;Know+your+network+before+it+knows+you.;Authorized+use+only.+Always.;root%40netscope%3A~%23+session+online_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=0088FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;lines=root%40bypass%3A~%23+python+mc_crash_pro.py...;Resolving+target+%E2%80%94+DNS+lookup+OK...;Probe+OK+%E2%80%94+MOTD+card+locked+in...;250+workers+online+%E2%80%94+strike+in+progress...;Packets+flying+%E2%80%94+overflow+varint+flood...;LOGIN+wave+%23120+%E2%80%94+usernames+rain+down...;Mission+complete+%E2%80%94+server+DOWN...;Their+server+won%27t+stop+lagging...;I+don%27t+lag.+I+make+your+server+lag+for+help.;root%40bypass%3A~%23+stay+protected_" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://t.me/your_handle"><img src="https://img.shields.io/badge/GET_THE_CODE-00FF41?style=for-the-badge&logo=telegram&logoColor=black&label=TELEGRAM&labelColor=0d0d0d" /></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
-<a href="https://www.youtube.com/@your-channel"><img src="https://img.shields.io/badge/YOUTUBE-0d0d0d?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
-<a href="https://www.instagram.com/your_handle/"><img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+<a href="https://t.me/Its_Bypass"><img src="https://img.shields.io/badge/GET_THE_CODE-0088FF?style=for-the-badge&amp;logo=telegram&amp;logoColor=black&amp;label=TELEGRAM&amp;labelColor=0d0d0d" /></a>
+<a href="https://github.com/BYPASS-CODEE"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&amp;logo=github&amp;logoColor=00FF41" /></a>
+<a href="https://www.youtube.com/@BYPASS_CODEE"><img src="https://img.shields.io/badge/YOUTUBE-0d0d0d?style=for-the-badge&amp;logo=youtube&amp;logoColor=FF0000" /></a>
+<a href="https://www.instagram.com/bypass_codee/"><img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&amp;logo=instagram&amp;logoColor=E4405F" /></a>
 
 </div>
 
@@ -28,8 +29,8 @@
 <br/>
 
 ```ansi
-┌──(root💀netscope)-[~]
-└─# cat /etc/netscope/about  ─────────────────────────────────
+┌──(root💀bypass)-[~]
+└─# cat /etc/mc-crash/about  ─────────────────────────────────
 ```
 
 <table>
@@ -38,50 +39,57 @@
 
 ```yaml
 system:
-  name:    "NETSCOPE_X"
-  role:    "LAN discovery / network diagnostics"
-  engine:  "arp cache + icmp + tcp connect"
-  shell:   "rich terminal tui — windows-first"
-  uptime:  "as long as the session runs"
+  name:    "MCRA$H_PRO"
+  role:    "minecraft crash & stress testing toolkit"
+  engine:  "hybrid — async flood + threaded protocol attacks"
+  target:  "any minecraft java edition server (1.8+)"
+  threads: "4 – 1000 concurrent workers"
+  stack:   "pure python stdlib — zero dependencies"
 
-executes:
-  - discovery — arp + icmp sweep of local /24
-  - vendor    — oui fingerprint lookup (44 prefixes)
-  - classify  — device type estimation
-  - ports     — 26 common tcp services (connect scan)
-  - export    — timestamped json report to disk
-  - recon     — hostname · latency · mac
+modules:
+  - overflow  → fake-length handshake strings
+  - varint    → overlong varint continuation bits
+  - flood     → raw packet bursts
+  - slow      → socket hold / slowloris
+  - login     → randomized username flood
+  - master    → weighted hybrid combo (flood ×2)
+
+extras:
+  - smart resolver with TCPShield backend discovery
+  - live status probe → MOTD card (version/players/latency)
+  - error forensics — TIMEOUT / REFUSED / RESET / DNS_FAIL
+  - post-attack server verdict (ONLINE = failed / DOWN = done)
 
 creed:
-  "know your network before it knows you."
+  "i don't lag. i make your server lag for help."
 
-[ STATUS ]: ONLINE — DASHBOARD v2.0 / ENGINE v2.0
+[ STATUS ]: ARMED — READY TO CRASH
 ```
 
 </td>
 <td width="45%" valign="top">
 
 ```
-         ┌─────────────────────┐
-         │       INTERNET      │
-         └──────────┬──────────┘
-                ┌───┴────┐
-          ┌─────┴────┐   │
-          │ GATEWAY  │   │
-          │  .1.1    │   │
-          └────┬─────┘   │
-      ┌────────┼──────┬──┘
-   ┌──┴───┐ ┌──┴───┐ ┌┴────┐
-   │  PC  │ │PHONE │ │ NAS │
-   │ .100 │ │ .104 │ │ .10 │
-   └──────┘ └──────┘ └─────┘
+             ▄▄▄▄▄▄▄▄▄▄▄
+           ▄█████████████▄
+          █████████████████
+         ████▄▄▄▄▄▄▄▄▄█████
+         ████▀▀▀▀▀▀▀▀▀█████
+         ██████████████████
+         ██████████████████
+          ▀██████████████▀
+            ▀██████████▀
+              ▀██████▀
+                ▀▀▀▀
 
-  ┌─[ SCAN STATE ]─┐
-  │ /24    SWEEP   │
-  │ ARP    DONE    │
-  │ PORTS  READY   │
-  │ EXPORT ARMED   │
-  └────────────────┘
+  ┌─[ ATTACK PANEL ]───┐
+  │ target    LOCKED   │
+  │ modules   6/6      │
+  │ workers   250      │
+  │ packets   1.2M     │
+  │ rate      8.4k/min │
+  │ status    BOMBING  │
+  └────────────────────┘
 ```
 
 </td>
@@ -92,28 +100,28 @@ creed:
 
 <div align="center">
 
-### 📥 ⟨ GET THE SOURCE CODE ⟩
+### 📥 ⟨ GET THE FULL SOURCE CODE ⟩
 
 </div>
 
 ```bash
-# ── The complete source code lives in this repository ──
-# ── one file · no c2 server · no hidden modules ──
+# ── The complete source code is NOT public ──
+# ── Contact the developer on Telegram to get the package ──
 
         ╔══════════════════════════════════════════════╗
         ║                                              ║
-        ║   📡 NETSCOPE X — FULL SOURCE CODE           ║
+        ║   ☠️  FULL SOURCE CODE — SINGLE FILE         ║
         ║                                              ║
-        ║   🐍 Python 3.8+   ·   📦 rich only          ║
+        ║   📱 Telegram:  @Its_Bypass                  ║
         ║                                              ║
-        ║   📂 netscope_x.py — single file             ║
+        ║   Send a message → receive the package       ║
         ╚══════════════════════════════════════════════╝
 
-# → https://github.com/your-username/NETSCOPE-X
+# → https://t.me/Its_Bypass
 ```
 
-> 🇺🇸 Terminal LAN discovery dashboard — full device inventory + port inspection in a single file.
-> ⚠️ Test only on your own networks or in controlled, authorized environments; scanning networks without permission is illegal — you are responsible for your usage.
+> 🇮🇷 ابزار تست استرس و کراش سرور ماینکرفت — برای تست سرورهای خودت یا با اجازه کتبی صاحب سرور.
+> ⚠️ استفاده از این ابزار برای حمله به سرورهای دیگران غیرقانونی است. مسئولیت استفاده با خودته.
 
 ---
 
@@ -121,51 +129,17 @@ creed:
 
 ### ⟨ WEAPONS ⟩
 
-<img src="https://img.shields.io/badge/PYTHON-7D4698?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/WINDOWS-15E0C5?style=for-the-badge&logo=windows&logoColor=00FF41&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/RICH_TERMINAL-00FF41?style=for-the-badge&logo=python&logoColor=black&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/TCP_CONNECT-2CA5E0?style=for-the-badge&logo=socket.io&logoColor=00FF41&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/JSON_REPORT-003B57?style=for-the-badge&logo=json&logoColor=00FF41&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/PYINSTALLER-3776AB?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/PYTHON-7D4698?style=for-the-badge&amp;logo=python&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/HYBRID_ENGINE-00FF41?style=for-the-badge&amp;logo=python&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/STDLIB_ONLY-FF6C37?style=for-the-badge&amp;logo=python&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/MULTI_THREADED-FFD700?style=for-the-badge&amp;logo=python&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/CROSS_PLATFORM-0088FF?style=for-the-badge&amp;logo=windows&amp;logoColor=0088FF&amp;labelColor=0d0d0d" />
 
 </div>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-```
-[ DASHBOARD — INTERFACE ]
-────────────────────────────
- ▰▰▰▰▰▰▰▰  Live Status Panel
- ▰▰▰▰▰▰▰▰  Device Inventory Table
- ▰▰▰▰▰▰▰▰  Port Results Panel
- ▰▰▰▰▰▰▰▰  Device Intelligence
- ▰▰▰▰▰▰▰▰  Control Center Menu
- ▰▰▰▰▰▰▰▰  One-Key JSON Export
-```
-
-</td>
-<td valign="top" width="50%">
-
-```
-[ SCAN ENGINE — CORE ]
-────────────────────────────
- ▰▰▰▰▰▰▰▰  ARP Cache Parse
- ▰▰▰▰▰▰▰▰  ICMP Reachability Sweep
- ▰▰▰▰▰▰▰▰  64-Thread Concurrency
- ▰▰▰▰▰▰▰▰  TCP Connect Port Scan
- ▰▰▰▰▰▰▰▰  OUI Vendor Map
- ▰▰▰▰▰▰▰▰  Reverse-DNS Hostname Hints
-```
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,windows,linux,bash,git,powershell,json,vim&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,windows,linux,bash,git&amp;theme=dark&amp;perline=5" />
 
 </div>
 
@@ -179,56 +153,16 @@ creed:
 
 | ⟦ capability ⟧ | ⟦ details ⟧ |
 |:--|:--|
-| 🖥 **Live Discovery** | full local /24 ICMP reachability sweep with 64 concurrent workers |
-| 📡 **ARP Intelligence** | parses the OS ARP cache (`arp -a`) for instant IP → MAC mapping — zero packets sent |
-| 🏭 **Vendor Fingerprint** | OUI lookup table — Apple · Samsung · Xiaomi · Huawei · TP-Link · Cisco · Intel · VMware · VirtualBox · Raspberry Pi … |
-| 🚪 **Port Engine** | conservative TCP connect scan of 26 common ports (SSH, HTTP, SMB, RDP, VNC, MQTT, ADB …) with 280 ms per-port timeout |
-| 🧭 **Device Classification** | estimates device type from vendor + hostname: iOS, Android, Windows PC, macOS, Printer, Network device, Linux SBC |
-| ⏱ **Latency Meter** | per-device ping RTT in milliseconds, refreshed on every scan |
-| 📊 **Live Dashboard** | Rich TUI: network status · device inventory · port results · device intelligence · control center |
-| 📤 **JSON Export** | one-key full report → `netscope_report_<timestamp>.json` |
-| 🔁 **Auto-Refresh** | re-scan anytime from the menu; all results persist in the session |
-| 🪶 **Zero-Intrusion** | no authentication · no exploitation · no packet capture · no file access · no credential collection |
-
----
-
-<div align="center">
-
-### ⟨ ./dashboard_commands --help ⟩
-
-</div>
-
-> Run the tool and use the Control Center menu — `py netscope_x.py`
-
-| key | action |
-|:--|:--|
-| `1` | **Discover** — run a full /24 sweep (ARP + ICMP) |
-| `2` | **Select/Scan** — pick a device, then TCP-scan its common ports |
-| `3` | **Details** — full intelligence panel for any device |
-| `4` | **Refresh** — re-run the whole discovery |
-| `5` | **Export** — dump everything to `netscope_report_<timestamp>.json` |
-| `Q` | **Quit** — clean exit |
-
----
-
-<div align="center">
-
-### ⟨ ./report_schema --help ⟩
-
-</div>
-
-> Every exported report follows this structure — `netscope_report_<timestamp>.json`
-
-| field | description |
-|:--|:--|
-| `tool` / `version` | NETSCOPE X · v2.0 |
-| `timestamp` | ISO-8601 export time |
-| `local_ip` / `gateway` / `network` | scan context |
-| `devices[]` | array of discovered devices |
-| `ip` / `mac` / `vendor` | device identity |
-| `hostname` / `kind` / `role` | device intelligence |
-| `status` / `latency_ms` | liveness + RTT |
-| `ports` / `services` | port scan results |
+| 🚀 **Hybrid Engine** | async non-blocking flood + threaded protocol attacks |
+| 💥 **5 Attack Modules** | OVERFLOW • VARINT • FLOOD • SLOW • LOGIN |
+| 🎯 **Master Mode** | weighted combo — flood gets 2× the workers |
+| 🧭 **Smart Resolver** | DNS A-records + TCPShield `resolve.` backend discovery |
+| 📡 **Live Probe** | real MC status ping → MOTD card (version/players/latency) |
+| 📊 **Live Dashboard** | packets, workers, error map, event ticker, progress bar |
+| 🔍 **Error Forensics** | auto-classifies TIMEOUT / REFUSED / RESET / DNS_FAIL |
+| ⚖️ **Server Verdict** | post-attack re-probe: still ONLINE = failed, DOWN = done |
+| ⚡ **Power Presets** | light (100th/20s) • normal (250th/45s) • max (600th/90s) |
+| 🧱 **Zero Dependencies** | pure Python stdlib — no pip install, no requirements.txt |
 
 ---
 
@@ -239,25 +173,28 @@ creed:
 </div>
 
 ```bash
-# ── 1) Install requirements ──────────────────────────
-pip install rich
+# ── 1) Get the source code ──────────────────────────────
+#    📱 Contact @Its_Bypass on Telegram → receive mc_crash_pro.py
 
-# ── 2) Run ──────────────────────────────────────────
-python netscope_x.py          # windows
-python3 netscope_x.py         # linux / macos
+# ── 2) Requirements ────────────────────────────────────
+#    Python 3.8+ — that's it. stdlib only, nothing to install.
 
-# ── 3) Optional: standalone .exe with PyInstaller ───
-pip install pyinstaller
-pyinstaller --onefile --console --name netscope_x netscope_x.py
+# ── 3) Run it (interactive) ────────────────────────────
+python mc_crash_pro.py
+
+# ── 4) Run it (CLI) ────────────────────────────────────
+python mc_crash_pro.py play.example.com
+python mc_crash_pro.py 127.0.0.1 -p 25565 -m master -d 60 -th 400 --force
 ```
 
 ```bash
-# ── Typical scan flow ────────────────────────────────
-# 1. launch               → banner + authorized-use notice
-# 2. auto-sweep /24       → ARP + ICMP, devices appear live
-# 3. [2] select device    → TCP port scan (26 common ports)
-# 4. [3] details          → vendor, hostname, latency, ports
-# 5. [5] export           → full JSON report to disk
+# ── Typical attack flow ─────────────────────────────────
+# 1. python mc_crash_pro.py          → launch the tool
+# 2. enter server: play.example.com  → lock the target
+# 3. probe → MOTD card               → target confirmed
+# 4. 250 workers spawn               → strike in progress
+# 5. watch the dashboard climb       → packets ↑ errors ↓
+# 6. final verdict                   → SERVER DOWN ✅
 ```
 
 ---
@@ -267,12 +204,12 @@ pyinstaller --onefile --console --name netscope_x netscope_x.py
 ```diff
 @@ ./usage_policy.sh @@
 
-+ control networks you own, from anywhere on your LAN
-+ identify open services and close misconfigurations
-+ export clean JSON reports for documentation and audits
-- scan networks you don't own
-- touch third-party infrastructure outside your scope
-- forget that a port scan leaves traces — it does
++ stress-test your own minecraft servers
++ authorized penetration tests and CTF labs
++ verify your own hosting before going public
+- attack servers you don't own
+- crash public servers for fun
+- forget that a crash can crash the crasher too
 ```
 
 </div>
@@ -287,12 +224,12 @@ pyinstaller --onefile --console --name netscope_x netscope_x.py
 
 | ⟦ module ⟧ | ⟦ delivers ⟧ |
 |:--|:--|
-| `discovery engine` | ARP cache parse + ICMP reachability sweep + latency measurement |
-| `port engine` | 26 common TCP services · 64-thread connect scan |
-| `vendor engine` | OUI fingerprint database → manufacturer lookup |
-| `classifier` | device-type estimation from vendor + hostname |
-| `dashboard` | Rich panels: status · inventory · ports · intelligence · control center |
-| `exporter` | timestamped JSON report (`netscope_report_*.json`) |
+| `overflow` | handshake with lied-about string lengths — 256B up to 65535B |
+| `varint` | overlong VarInt continuation bits past 5 bytes — breaks weak parsers |
+| `flood` | raw garbage packet bursts — 64B → 4KB, up to 8 per socket |
+| `slow` | slowloris-style sockets held 8–25s with keep-alive bytes |
+| `login` | randomized username flood — `ShadowWolf_1337` style, ≤16 chars |
+| `master` | weighted hybrid — runs everything, flood gets 2× firepower |
 
 ---
 
@@ -300,8 +237,8 @@ pyinstaller --onefile --console --name netscope_x netscope_x.py
 
 ### ⟨ ./system_monitor ⟩
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&theme=chartreuse-dark&bg_color=0D0D0D&icon_color=00FF41&text_color=AAAAAA&border_color=00FF41&include_all_commits=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&background=0D0D0D&ring=00FF41&fire=FF0000&currStreakLabel=00FF41&sideNums=FFFFFF&sideLabels=AAAAAA&dates=555555&border=00FF41" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BYPASS-CODEE&amp;show_icons=true&amp;hide_title=true&amp;theme=chartreuse-dark&amp;bg_color=0D0D0D&amp;icon_color=00FF41&amp;text_color=AAAAAA&amp;border_color=0088FF&amp;include_all_commits=true" />
+<img height="170" src="https://streak-stats.demolab.com/?user=BYPASS-CODEE&amp;theme=dark&amp;background=0D0D0D&amp;ring=0088FF&amp;fire=FF0000&amp;currStreakLabel=00FF41&amp;sideNums=FFFFFF&amp;sideLabels=AAAAAA&amp;dates=555555&amp;border=0088FF" />
 
 </div>
 
@@ -313,11 +250,58 @@ pyinstaller --onefile --console --name netscope_x netscope_x.py
 
 </div>
 
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<a href="https://t.me/Its_Bypass">
+<img src="https://img.shields.io/badge/-Telegram-0088FF?style=flat-square&amp;logo=telegram&amp;logoColor=black" /><br/>
+<sub><b>@Its_Bypass — get the code</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/BYPASS-CODEE">
+<img src="https://img.shields.io/badge/-GitHub-00FF41?style=flat-square&amp;logo=github&amp;logoColor=black" /><br/>
+<sub><b>BYPASS-CODEE</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.youtube.com/@BYPASS_CODEE">
+<img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" /><br/>
+<sub><b>@BYPASS_CODEE</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.instagram.com/bypass_codee/">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" /><br/>
+<sub><b>bypass_codee</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-<a href="https://t.me/your_handle"><img src="https://img.shields.io/badge/TELEGRAM-00FF41?style=for-the-badge&logo=telegram&logoColor=black&label=CHANNEL&labelColor=0D0D0D" /></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
-<a href="https://www.youtube.com/@your-channel"><img src="https://img.shields.io/badge/YOUTUBE-0D0D0D?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
-<a href="https://www.instagram.com/your_handle/"><img src="https://img.shields.io/badge/INSTAGRAM-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   "i don't lag.                                 ║
+║    i make your server lag for help —            ║
+║    600 threads at a time."                      ║
+║                                                  ║
+║   🧨 one server. endless lag.                   ║
+╚══════════════════════════════════════════════════╝
+```
+
+```bash
+root@bypass:~# stay protected
+```
+
+<img src="https://komarev.com/ghpvc/?username=BYPASS-CODEE&amp;color=0088FF&amp;style=for-the-badge&amp;label=VISITORS+LOGGED" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:001122,100:0088FF&amp;height=120&amp;section=footer&amp;text=telegram%3A%20%40Its_Bypass%20%E2%80%94%20get%20the%20code&amp;fontSize=18&amp;fontColor=0088FF&amp;fontAlignY=78" width="100%"/>
 
 </div>
